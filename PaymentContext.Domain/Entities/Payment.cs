@@ -21,6 +21,8 @@ namespace PaymantContext.Domain.Entities
 
         public string Email { get; set; }
 
+        public string Email1 { get; set; }
+
     }
 
     public class BoletoPayment : Payment
